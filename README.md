@@ -40,7 +40,7 @@ This MCP server exposes the following alphaMountain API endpoints as tools:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ZuuuSSzz/alphaMountain-MCP
 cd alphamountain
 ```
 
@@ -195,9 +195,6 @@ The server handles common API errors:
 
 All errors are logged and raised as exceptions with descriptive messages.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
