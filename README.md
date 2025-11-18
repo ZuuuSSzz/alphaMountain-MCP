@@ -41,7 +41,7 @@ This MCP server exposes the following alphaMountain API endpoints as tools:
 
 ```bash
 git clone https://github.com/ZuuuSSzz/alphaMountain-MCP
-cd alphamountain
+cd alphaMountain-MCP
 ```
 
 ### 2. Create a virtual environment (recommended)
